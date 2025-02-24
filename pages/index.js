@@ -1,5 +1,5 @@
 function Home () {
-    return <><h1>Testando no segundo dia utilizando github.</h1></>
+    return <><h1>Testando novamente mas rodando o VS Code localmente.</h1></>
 }
 
 export default Home;
