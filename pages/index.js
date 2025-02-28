@@ -1,5 +1,8 @@
-function Home () {
-    return <><h1>Testando novamente mas rodando o VS Code localmente.</h1></>
+function Home() {
+  return (
+    <>
+      <h1>Testando novamente mas rodando o VS Code localmente.</h1>
+    </>
+  );
 }
-
 export default Home;
